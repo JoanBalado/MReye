@@ -44,7 +44,7 @@ The main script takes the following positional arguments:
 - 6: Coords --> List with coordinates to be passed to nilearn. 
 - 7: Output directory. 
 
-So, the program expects the following directory structur: 
+So, the program expects the following directory structure: 
 ```bash
 start_dir
 |__subj1
@@ -58,7 +58,7 @@ Example:
 ```bash
 python -m MReye /media/start_directory ~/subjects_list.txt sufix t1_ax z [-30,-20,-10,0,10,20,30] ~/out_directory
 ```
-Where subjects list is just a text file with the name of each subject...
+Where subjects list is just a text file with the name of each subject.
 
 # 4. License
 
