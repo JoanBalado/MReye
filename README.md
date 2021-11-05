@@ -1,7 +1,6 @@
 # 0. About
 
-This is just an auxiliar repository with some auxiliar functions. Main script iterates over a list of subjects plotting MRIs in the desired plane and coordinates. I created
-this in order to do some quality controls in my work, but I'm planning to keep improving it...
+This is just an auxiliar repository with some auxiliar functions. Main script iterates over a list of subjects plotting MRIs in the desired plane and coordinates. I created this in order to do some quality controls in my work, but I'm planning to keep improving it...
 
 # 1. Installation and Dependencies
 
@@ -31,10 +30,9 @@ for path in sys.path: print(path)
 ```Python
 import MReye as mreye
 ```
+All functions include documentation, check with help(). 
 
-All functions include documentation, check with help. 
-
-# 3. Runnin the main script
+# 3. Running the main script
 
 The main script takes the following positional arguments: 
 
