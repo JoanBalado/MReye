@@ -45,11 +45,13 @@ The main script takes the following positional arguments:
 - 7: Output directory. 
 
 So, the program expects the following directory structur: 
+```bash
 start_dir
 |__subj1
    |__subj1_sufix
       |__flair_ax
          |__flair_ax.nii.gz
+```
 
 Example:
 
