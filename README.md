@@ -18,7 +18,7 @@ Python 3.8.
 
 ## 1.2. Installation
 
-Just pull the git repository and uncompress in your python-lybrary fold. If you don't know where it is, check with: 
+Just pull the git repository and uncompress in your python-library folder. If you don't know where it is, check with: 
 
 ```Python
 import sys
