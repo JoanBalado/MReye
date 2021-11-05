@@ -1,6 +1,6 @@
 # 0. About
 
-This is just an auxiliar repository with some auxiliar functions. Main script iterates over a list of subjects plotting MRIs in the desired plane and coordinates. I created this in order to do some quality controls in my work, but I'm planning to keep improving it...
+This is just a repository with some auxiliar functions. Main script iterates over a list of subjects plotting MRIs in the desired plane and coordinates. I created this in order to do some quality controls in my work, but I'm planning to keep improving it...
 
 # 1. Installation and Dependencies
 
